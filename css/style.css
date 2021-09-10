@@ -1,0 +1,39 @@
+
+.navbar{
+    background-color: #f05e0ad5;
+}
+
+.quemsomos {
+    background-color: #16F057;
+    padding: 2.5rem 0 2.5rem 0;
+}
+.quemsomos > img{
+    margin: 2rem auto 2rem auto;
+}
+
+.parceiria {
+    background-color: #17A341;
+    padding: 5rem;
+}
+
+.servicos{
+    background-color: #16F057;
+    padding: 5rem;
+}
+
+.container{
+    margin: 2rem auto 2rem auto;
+}
+
+.margin{
+    padding: 5rem 0 8rem 0;
+}
+
+.bg-footer{
+    background-color: #212422;
+    color: #FFFFFF;
+}
+
+.img{
+    padding-top: 2rem;
+}
